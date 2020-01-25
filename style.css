@@ -1,0 +1,218 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#main-picture {
+  background-image: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: -638px;
+  width: 1400px;
+  height: 679px;
+}
+
+#nav-container {
+  position: absolute;
+  top: 100px;
+  width: 1000px;
+  justify-content: center;
+  margin-left: 12%;
+  margin-right: 15%;
+}
+
+#apple-logo {
+  background-image: url("resources/apple-logo.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: center;
+  padding: 20px 0;
+}
+
+input {
+  width: 85%;
+  border-radius: 10px;
+  background-image: url("resources/search-white.png");
+  background-repeat: no-repeat;
+  background-size: 15%;
+  background-color: inherit;
+  background-position-x: 5px;
+  background-position-y: 2px;
+  border-color: inherit;
+  border-color: grey;
+}
+
+ul {
+  list-style: none;
+}
+
+#nav-container ul {
+  display: flex;
+  background-image: linear-gradient(#808080, #424242, #707070);
+  color: #fff;
+  height: 40px;
+  border-radius: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  align-items: center;
+}
+
+#nav-container ul li {
+  flex: 1;
+  border-left: 1px solid #424242;
+  text-align: center;
+  padding: 11px 0;
+}
+
+#search-bar {
+  padding: 9px 0;
+}
+
+#feature-section ul li {
+  flex: 1;
+}
+
+#footer-right ul li {
+  padding: 0 5px;
+  border-left: 1px solid #6e6e6e;
+}
+
+#nav-container ul li:first-child {
+  border-right: none;
+}
+
+#nav-container ul li:hover {
+  background-color: #424242;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+footer a {
+  color: #08c;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#main-text {
+  position: absolute;
+  width: 1000px;
+  top: 220px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #fff;
+  margin-left: 12%;
+  margin-right: 15%;
+  font-weight: 100;
+  font-style: normal;
+}
+
+#main-text h1 {
+  font-size: 60px;
+  padding: 20px 0;
+  font-stretch: extra-expanded;
+}
+
+#main-text p {
+  font-size: 30px;
+  padding: 20px 0;
+}
+
+#main-text a {
+  color: #fff;
+  font-size: 23px;
+}
+
+#paragraph {
+  position: relative;
+}
+
+#play-image {
+  position: absolute;
+  top: 25px;
+  background-image: url("resources/play-img.png");
+  background-repeat: no-repeat;
+  background-size: 30px;
+  width: 25px;
+  height: 25px;
+}
+
+.promo {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.img1 {
+  background-image: url("resources/promo1.jpg");
+}
+
+.img2 {
+  background-image: url("resources/promo2.jpg");
+}
+
+.img3 {
+  background-image: url("resources/promo3.jpg");
+}
+
+.img4 {
+  background-image: url("resources/promo4.jpg");
+}
+
+#feature-section {
+  width: 1400px;
+}
+
+#feature-section ul {
+  display: flex;
+  height: 200px;
+}
+
+#feature-section ul li:hover {
+  cursor: pointer;
+}
+
+footer {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 10px;
+  display: flex;
+  flex-direction: row;
+  margin: 15px 16%;
+  color: #6e6e6e;
+}
+
+#footer-right ul {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+}
+
+#footer-right ul li:first-child {
+  border-left: none;
+}
+
+#footer-right {
+  padding-left: 60px;
+}
+
+#flag {
+  background-image: url(resources/peru-flag.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 15px;
+  padding-left: 10px;
+  width: 25px;
+}
+
+#footer-left p {
+  padding: 10px 0;
+}
