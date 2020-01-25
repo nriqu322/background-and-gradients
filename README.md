@@ -1,9 +1,9 @@
-# background-and-gradients
+# Background-and-Gradients
 HTML document that matches the appearance of *[Apple Page](https://web.archive.org/web/20140301004610/http://www.apple.com/)*
 
 It's from the Odin Project and Microverse Curriculum
 
-[screenshot](/resources/vista-previa-background.png)
+![screenshot](/resources/vista-previa-background.png)
 
 You can see a Live version [HERE](https://nriqu322.github.io/background-and-gradients/.)
 
