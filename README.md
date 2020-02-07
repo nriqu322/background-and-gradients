@@ -1,11 +1,13 @@
-# Background-and-Gradients
-HTML document that matches the appearance of *[Apple Page](https://web.archive.org/web/20140301004610/http://www.apple.com/)*
-
-It's from the Odin Project and Microverse Curriculum
+# Background and Gradients
+This is a clone of the *[Apple Page](https://web.archive.org/web/20140301004610/http://www.apple.com/)* archive.
 
 ![screenshot](/resources/vista-previa-background.png)
 
-You can see a Live version [HERE](https://nriqu322.github.io/background-and-gradients/.)
+# From the Odin Project
+*Link to the [requirements](https://www.theodinproject.com/lessons/html-css) in the Odin Project*
+
+## Live Demo
+[Live Demo Link](https://nriqu322.github.io/background-and-gradients/)
 
 ## Made with
 HTML5 and CSS3
@@ -17,7 +19,7 @@ HTML5 and CSS3
 * Positioning : relative, absolute
 * Offset properties
 
-## Author
+## Author [![Hireable](https://img.shields.io/badge/HIREABLE-YES-yellowgreen&?style=for-the-badge)](https://linkedin.com/in/luis-saavedra-sanchez/)
 
 👤 **Luis Saavedra**
 
@@ -25,6 +27,11 @@ HTML5 and CSS3
 - Twitter: [@twitterhandle](https://twitter.com/nriqu322)
 - Linkedin: [Luis Saavedra](https://linkedin.com/in/luis-saavedra-sanchez/)
 
+## Contributing
 
+Contributions, issues and feature requests are welcome!
 
-*Link to the [Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients) in the Odin Project*
+Feel free to check [here](https://github.com/nriqu322/background-and-gradients/issues) for issues.
+
+## Show your support
+Give a ⭐️ if you like this project!
