@@ -13,13 +13,18 @@
   height: 679px;
 }
 
+.nav-superior {
+  position: relative;
+  width: 1400px;
+}
+
 #nav-container {
   position: absolute;
   top: 100px;
   width: 1000px;
   justify-content: center;
   margin-left: 12%;
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 #apple-logo {
